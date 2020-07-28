@@ -1,5 +1,6 @@
 
-<img align="right" width="98" height="120" src="https://jihadiscapes.github.io/Domain_tool/HC_square1.jpg">
+<img align="right" width="98" height="120" src="https://jihadiscapes.github.io/Domain_tool/HC_square1.jpg" />
+
 ## Jihadiscapes: Domain Tool 
 
 This tool presents a small part of the analysis produced via [BlackLight](http://blacklight.global).
