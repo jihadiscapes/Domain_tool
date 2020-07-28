@@ -8,7 +8,7 @@ This version was used in the session _The Persistent Online Presence: The Shift 
 
 
 ```markdown
-**Dataset**
+*Dataset*
 - 6.4 million updates.
 - 4.6 million observations of URL sharing.
 - 200,000 Unique URL. 
