@@ -1,4 +1,4 @@
-![HC_Square](/HC_square1.jpg){:height="240px" width="196px"}
+![HC_Square](/HC_square1.jpg){:height="120px" width="98px"}
 
 ## Jihadiscapes: Domain Tool
 
