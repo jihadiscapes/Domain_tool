@@ -1,6 +1,8 @@
+![GitHub Logo](/images/logo.png)
 ## Jihadiscapes: Domain Tool
 
-This tool presents a small part of the one produced via BlackLight for the _Progressive Terrorism Studies Webinar Series_. 'The Persistent Online Presence: The Shift in Platform Exploitation Over Time'
+This tool presents a small part of the analysis produced via BlackLight.
+This version was used in the session 'The Persistent Online Presence: The Shift in Platform Exploitation Over Time', part of the _Progressive Terrorism Studies Webinar Series_. Hosted by [RUSI](http://rusi.org).
 
 ```markdown
 **Dataset**
@@ -13,5 +15,6 @@ This tool presents a small part of the one produced via BlackLight for the _Prog
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html "> 
 </iframe>
 
-'To increase loading speed this is a compressed version of the data analysis, values are daily with a 7 day rolling mean.'
+> Note
+`To increase loading speed this is a compressed version of the data analysis, values are daily with a 7 day rolling mean`
 
