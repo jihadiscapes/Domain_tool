@@ -1,16 +1,13 @@
-## Jihadiscapes Domain Tool. 
+# Jihadiscapes: 
+## Domain Tool. 
 
-This version of the tool is a small version of the one produced via BlackLight.  
-
-### Per le versioni a schermo intero e interattive, seleziona il grafico e fai clic sull'URL
-mostra casi positivi COVID-19 in Piemonte
-<iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html"> </iframe>
+This tool presents a small part of the one produced via BlackLight.  
 
 
+### Use of Domains at the core of the Salafi-Jihadi information ecosystem.
 
+<iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html"> </iframe>
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
