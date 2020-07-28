@@ -1,6 +1,7 @@
 
 ## Jihadiscapes: Domain Tool
 ![Human Cognition](/HC_square1.jpg)
+<img src="/HC_square1.jpg"  width="120" height="120">
 
 This tool presents a small part of the analysis produced via BlackLight.
 This version was used in the session 'The Persistent Online Presence: The Shift in Platform Exploitation Over Time', part of the _Progressive Terrorism Studies Webinar Series_. Hosted by [RUSI](http://rusi.org).
