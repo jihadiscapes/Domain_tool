@@ -24,12 +24,12 @@ Select a platform from the dropdown menu to highlight the shifts in exploitation
  <br>
  
 ```markdown
-To increase load speed this is a compressed version of the analysis;
+*To increase load speed this is a compressed version of the analysis;*
 
-- showing select domains,
+- only showing select domains,
 - values are daily,
-- seven day rolling mean.
-```
+- presented as a seven day rolling mean.
+
 
 
 
