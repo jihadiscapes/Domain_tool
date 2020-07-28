@@ -3,10 +3,10 @@
 
 This tool presents a small part of the one produced via BlackLight.  
 
+** Use of Domains at the core of the Salafi-Jihadi information ecosystem.**
 
-### Use of Domains at the core of the Salafi-Jihadi information ecosystem.
-
-<iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html"> </iframe>
+<iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html"> 
+</iframe>
 
 
 ### Markdown
