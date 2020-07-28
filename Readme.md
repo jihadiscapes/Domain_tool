@@ -1,8 +1,6 @@
-![HC_Square](/HC_square1.jpg){:height="240px" width="196px"}!.
+![HC_Square](/HC_square1.jpg){:height="240px" width="196px"}
 
 ## Jihadiscapes: Domain Tool
-
-<img src="https://jihadiscapes.github.io/Domain_Tool/HC_square1.jpg",  width="196" height="240"/>
 
 This tool presents a small part of the analysis produced via BlackLight.
 This version was used in the session _The Persistent Online Presence: The Shift in Platform Exploitation Over Time_, part of the **Progressive Terrorism Studies Webinar Series** hosted by [RUSI](http://rusi.org). 
@@ -15,11 +13,11 @@ This version was used in the session _The Persistent Online Presence: The Shift 
 ```
 Select a platform from the dropdown menu to highlight the shifts in exploitation of that platform / site over time by the core of the Salafi-Jihadi information ecosystem.
 
-<iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html "> 
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html "> 
 </iframe>
 
 ```markdown
-To increase loading speed this is a compressed version of the data analysis;
+To increase load speed this is a compressed version of the analysis;
 
 - showing select domains,
 - values are daily,
