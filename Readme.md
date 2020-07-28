@@ -14,7 +14,6 @@ This version was used in the session _The Persistent Online Presence: The Shift 
 - 200,000 Unique URL. 
 ```
  <br>
- <br>
  
 Select a platform from the dropdown menu to highlight the shifts in exploitation of that platform / site over time by the core of the Salafi-Jihadi information ecosystem.
  <br>
