@@ -1,9 +1,10 @@
 
 
-## Jihadiscapes: Domain Tool      ![HC_Square](/HC_square1.jpg){:height="120px" width="98px"}
+## Jihadiscapes: Domain Tool <img align="right" width="98" height="120" src="https://jihadiscapes.github.io/Domain_tool/HC_square1.jpg">
 
 This tool presents a small part of the analysis produced via [BlackLight](http://blacklight.global).
 This version was used in the session _The Persistent Online Presence: The Shift in Platform Exploitation Over Time_, part of the **Progressive Terrorism Studies Webinar Series** hosted by [RUSI](http://rusi.org). 
+
 
 
 ```markdown
