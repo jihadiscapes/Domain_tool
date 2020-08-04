@@ -8,11 +8,12 @@ This version was used in the session _The Persistent Online Presence: The Shift 
 <br> 
 In 2019 Emily Winterbotham, Dr Ali Fisher and Dr Nico Prucha published the largest ever study of traffic between the online platforms that comprise the [Jihadi information ecosystem](https://rusi.org/sites/default/files/20190716_grntt_paper_06.pdf). 
 
-This study examined 24 months of data from the core of the Salafi-Jihadi Telegram network and revealed the inner workings of their multiplatform communication paradigm. The paper demonstrated the different roles that platforms play within the multiplatform information ecosystem, including Telegram, Tamtam, and Matrix.  
- <br>
+The 2019 study examined 24 months of data from the core of the Salafi-Jihadi Telegram network and revealed the inner workings of their multiplatform communication paradigm. The paper demonstrated the different roles that platforms play within the multiplatform information ecosystem, including Telegram, Tamtam, and Matrix.  
+<br>
+This new study analyses 3 years of data collected in near realtime.   
  
 ```markdown
-*Dataset*
+Dataset
 - 6.4 million updates.
 - 4.6 million observations of URL sharing.
 - 200,000 Unique URL. 
@@ -29,7 +30,7 @@ Select a platform from the dropdown menu to highlight the shifts in exploitation
  <br>
  
  ```markdown
-*To increase load speed this is a compressed version of the analysis;*
+To increase load speed this is a compressed version of the analysis;
 
 - only showing select domains,
 - values are daily,
