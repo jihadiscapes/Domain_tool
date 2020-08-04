@@ -35,8 +35,9 @@ Select a platform from the dropdown menu to highlight the shifts in exploitation
 - values are daily,
 - presented as a seven day rolling mean.
 ```
-
+<br>
 This large-scale analysis provides a strategic level overview of the way the Salafi-Jihadi movement has operated since Telegram became its primary platform for communicating with supporters. By examining the URL they share, it shows the breadth of their presence across platforms and provides the evidence base through which to identify detectable patterns in the use of different online services. 
+<br>
 
 The session showed there correlations between the use of different platforms, and that co-citation style network analysis could be a useful approach to detect clusters of platforms which are used collectively. The slides from the session are available [here](http://bitly.com/PTSS1).  
 
