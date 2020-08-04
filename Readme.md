@@ -4,8 +4,11 @@
 This tool presents a small part of the analysis produced via [BlackLight](http://blacklight.global).
 
 This version was used in the session _The Persistent Online Presence: The Shift in Platform Exploitation Over Time_, part of the **Progressive Terrorism Studies Webinar Series** hosted by [RUSI](http://rusi.org). How the Salafi-Jihadi movement has been able to exploit the internet to distribute their message has been a key concern of those seeking to challenge these narratives. 
- <br> 
- In 2019 Emily Winterbotham, Dr Ali Fisher and Dr Nico Prucha published the largest ever study of traffic between the online platforms that comprise the Jihadi information ecosystem. This study included 24 months of data from the core of the Salafi-Jihadi Telegram network and revealed the inner workings of their multiplatform communication paradigm. The paper demonstrated the different roles that platforms play within the multiplatform information ecosystem, including Telegram, Tamtam, and Matrix.  
+
+<br> 
+In 2019 Emily Winterbotham, Dr Ali Fisher and Dr Nico Prucha published the largest ever study of traffic between the online platforms that comprise the [Jihadi information ecosystem](https://rusi.org/sites/default/files/20190716_grntt_paper_06.pdf). 
+
+This study examined 24 months of data from the core of the Salafi-Jihadi Telegram network and revealed the inner workings of their multiplatform communication paradigm. The paper demonstrated the different roles that platforms play within the multiplatform information ecosystem, including Telegram, Tamtam, and Matrix.  
  <br>
  
 ```markdown
@@ -22,10 +25,10 @@ Select a platform from the dropdown menu to highlight the shifts in exploitation
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html "> 
 </iframe>
  <br>
+ Fullscreen version available [here](https://jihadiscapes.github.io/Domain_tool/Dom_plot_drop3.html).
  <br>
  
-```markdown
-
+ ```markdown
 *To increase load speed this is a compressed version of the analysis;*
 
 - only showing select domains,
